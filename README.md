@@ -11,4 +11,4 @@
 ```Hieu T. Nguyen, Hieu H. Pham, Nghia T. Nguyen, Ha Q. Nguyen, Thang Q. Huynh, Minh Dao, and Van Vu, “VinDr-SpineXR: A deep learning framework for spinal lesions detection and classification from radiographs,” in Proceedings of the 2021 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2021)```
 
 10 epochs with Resnet34 yielded 100% accuracy.
-Test on 300 images had 3 lumbar spine xrays that mistakenly ended up in the prediction dataset and one frontal LSpine that was only labeled as 'frontal' but had no body part designation. All other images were correct on visual validation.
+Test on 300 images had 3 thoracic spine xrays that mistakenly ended up in the prediction dataset and one frontal LSpine that was only labeled as 'frontal' but had no body part designation. All other images were correct on visual validation.
