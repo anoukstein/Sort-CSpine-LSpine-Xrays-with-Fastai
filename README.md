@@ -1,7 +1,4 @@
-# Sort-CSpine-LSpine-Xrays-with-Fastai
-Sort CSpine &amp; LSpine Xrays with Fastai using data from VinDr-SpineXR
-
-# Sort  CSpine & LSpine Xrays with Fastai
+# Sort  CSpine & LSpine Xrays with Fastai using data from VinDr-SpineXR
 
 - CSpine: frontal, lateral, oblique
 - LSpine: frontal, lateral
